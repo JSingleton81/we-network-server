@@ -1,0 +1,3 @@
+INSERT INTO `we_network`.`users` (`user_name`, `email`, `password`, `first_name`, `last_name`, `city`, `street`, `zip`, `state`, `business`) VALUES ('Green', 'green@green.com', '789654123', 'Jay', 'Day', 'Jackosn', 'Wood', '39206', 'MS', '1');
+INSERT INTO `we_network`.`users` (`user_name`, `email`, `password`, `first_name`, `last_name`, `city`, `street`, `zip`, `state`, `business`) VALUES ('Red', 'red@red.com', '456987123', 'Ray', 'Night', 'Killeen', 'Arkansas', '76543', 'TX', '1');
+INSERT INTO `we_network`.`users` (`user_name`, `email`, `password`, `first_name`, `last_name`, `city`, `street`, `zip`, `state`, `business`) VALUES ('Blue', 'blue@blue.com', '321564987', 'Tom', 'Evening', 'Austin', 'Runberg', '78728', 'TX', '1');
